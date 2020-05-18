@@ -1,0 +1,128 @@
+﻿[
+	{
+		"description": "Chodnik, droga dla pieszych",
+		"accidentsAmmount": 653,
+		"killed": 16,
+		"injured": 673,
+		"colisionAmmount": 4383
+	},
+	{
+		"description": "Droga, pas ruchu, śluza dla rowerów",
+		"accidentsAmmount": 366,
+		"killed": 4,
+		"injured": 385,
+		"colisionAmmount": 945
+	},
+	{
+		"description": "Jezdnia",
+		"accidentsAmmount": 23218,
+		"killed": 2142,
+		"injured": 28454,
+		"colisionAmmount": 370155
+	},
+	{
+		"description": "Most, wiadukt, łącznica, tunel",
+		"accidentsAmmount": 116,
+		"killed": 15,
+		"injured": 133,
+		"colisionAmmount": 1976
+	},
+	{
+		"description": "Parking, plac, MOP",
+		"accidentsAmmount": 208,
+		"killed": 4,
+		"injured": 209,
+		"colisionAmmount": 32874
+	},
+	{
+		"description": "Pas dzielący jezdnie",
+		"accidentsAmmount": 30,
+		"killed": 3,
+		"injured": 32,
+		"colisionAmmount": 697
+	},
+	{
+		"description": "Pobocze",
+		"accidentsAmmount": 1044,
+		"killed": 197,
+		"injured": 1226,
+		"colisionAmmount": 8415
+	},
+	{
+		"description": "Przejazd dla rowerzystów",
+		"accidentsAmmount": 628,
+		"killed": 16,
+		"injured": 620,
+		"colisionAmmount": 1128
+	},
+	{
+		"description": "Przejazd kolejowy niestrzeżony",
+		"accidentsAmmount": 53,
+		"killed": 27,
+		"injured": 71,
+		"colisionAmmount": 278
+	},
+	{
+		"description": "Przejazd kolejowy strzeżony",
+		"accidentsAmmount": 14,
+		"killed": 7,
+		"injured": 9,
+		"colisionAmmount": 978
+	},
+	{
+		"description": "Przejazd tramwajowy, torowisko tramwajowe",
+		"accidentsAmmount": 193,
+		"killed": 15,
+		"injured": 281,
+		"colisionAmmount": 661
+	},
+	{
+		"description": "Przejście dla pieszych",
+		"accidentsAmmount": 3978,
+		"killed": 285,
+		"injured": 3899,
+		"colisionAmmount": 4017
+	},
+	{
+		"description": "Przewiązka na drodze dwujezdniowej",
+		"accidentsAmmount": 10,
+		"killed": 1,
+		"injured": 12,
+		"colisionAmmount": 125
+	},
+	{
+		"description": "Przystanek komunikacji publicznej",
+		"accidentsAmmount": 176,
+		"killed": 5,
+		"injured": 180,
+		"colisionAmmount": 540
+	},
+	{
+		"description": "Roboty drogowe, oznakowanie tymczasowe",
+		"accidentsAmmount": 86,
+		"killed": 12,
+		"injured": 92,
+		"colisionAmmount": 1636
+	},
+	{
+		"description": "Skarpa, rów",
+		"accidentsAmmount": 635,
+		"killed": 105,
+		"injured": 803,
+		"colisionAmmount": 4192
+	},
+	{
+		"description": "Wjazd, wyjazd z posesji, pola",
+		"accidentsAmmount": 266,
+		"killed": 8,
+		"injured": 280,
+		"colisionAmmount": 3414
+	},
+	{
+		"description": "Podsumowanie",
+		"accidentsAmmount": 31674,
+		"killed": 2862,
+		"injured": 37359,
+		"colisionAmmount": 436414
+	}
+]

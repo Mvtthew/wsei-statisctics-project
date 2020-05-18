@@ -1,0 +1,9 @@
+<div class="home mt-4">
+	<div class="container">
+		<div *ngIf="behaviorData">
+			<p *ngFor="let behavior of behaviorData">
+				{{ behavior.description }} - killed {{ behavior.killed }}
+			</p>
+		</div>
+	</div>
+</div>

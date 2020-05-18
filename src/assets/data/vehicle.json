@@ -1,0 +1,114 @@
+﻿[
+	{
+		"description": "Autobus inny",
+		"accidentsAmmount": 92,
+		"killed": 15,
+		"injured": 209,
+		"colisionAmmount": 1604
+	},
+	{
+		"description": "Autobus komunikacji publicznej",
+		"accidentsAmmount": 299,
+		"killed": 5,
+		"injured": 365,
+		"colisionAmmount": 2382
+	},
+	{
+		"description": "Ciągnik rolniczy",
+		"accidentsAmmount": 130,
+		"killed": 19,
+		"injured": 143,
+		"colisionAmmount": 1572
+	},
+	{
+		"description": "Czterokołowiec",
+		"accidentsAmmount": 35,
+		"killed": 3,
+		"injured": 37,
+		"colisionAmmount": 75
+	},
+	{
+		"description": "Czterokołowiec lekki",
+		"accidentsAmmount": 19,
+		"killed": 2,
+		"injured": 20,
+		"colisionAmmount": 70
+	},
+	{
+		"description": "Inny",
+		"accidentsAmmount": 79,
+		"killed": 9,
+		"injured": 85,
+		"colisionAmmount": 1201
+	},
+	{
+		"description": "Motocykl inny",
+		"accidentsAmmount": 852,
+		"killed": 121,
+		"injured": 843,
+		"colisionAmmount": 2076
+	},
+	{
+		"description": "Motocykl o poj. do 125 cm3 ( do 11 kw/0,1 KW/kg)",
+		"accidentsAmmount": 214,
+		"killed": 25,
+		"injured": 216,
+		"colisionAmmount": 618
+	},
+	{
+		"description": "Motorower",
+		"accidentsAmmount": 635,
+		"killed": 45,
+		"injured": 638,
+		"colisionAmmount": 2291
+	},
+	{
+		"description": "Pociąg",
+		"accidentsAmmount": 0,
+		"killed": 0,
+		"injured": 0,
+		"colisionAmmount": 4
+	},
+	{
+		"description": "Pojazd nieustalony",
+		"accidentsAmmount": 557,
+		"killed": 10,
+		"injured": 596,
+		"colisionAmmount": 19059
+	},
+	{
+		"description": "Rower",
+		"accidentsAmmount": 1713,
+		"killed": 132,
+		"injured": 1636,
+		"colisionAmmount": 4697
+	},
+	{
+		"description": "Samochód ciężarowy DMC do 3,5 T",
+		"accidentsAmmount": 1350,
+		"killed": 123,
+		"injured": 1637,
+		"colisionAmmount": 23183
+	},
+	{
+		"description": "Samochód ciężarowy DMC powyżej 3,5 T",
+		"accidentsAmmount": 878,
+		"killed": 116,
+		"injured": 1077,
+		"colisionAmmount": 22977
+	},
+	{
+		"description": "Samochód osobowy",
+		"accidentsAmmount": 20622,
+		"killed": 1547,
+		"injured": 25614,
+		"colisionAmmount": 291762
+	},
+	{
+		"description": "Tramwaj, trolejbus",
+		"accidentsAmmount": 81,
+		"killed": 5,
+		"injured": 145,
+		"colisionAmmount": 231
+	}
+]

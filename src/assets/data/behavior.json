@@ -1,0 +1,170 @@
+﻿[
+	{
+		"description": "Gwałtowne hamowanie",
+		"accidentsAmmount": 227,
+		"killed": 2,
+		"injured": 272,
+		"colisionAmmount": 824
+	},
+	{
+		"description": "Inne przyczyny",
+		"accidentsAmmount": 1654,
+		"killed": 234,
+		"injured": 1850,
+		"colisionAmmount": 20720
+	},
+	{
+		"description": "Jazda bez wymaganych świateł",
+		"accidentsAmmount": 27,
+		"killed": 9,
+		"injured": 26,
+		"colisionAmmount": 63
+	},
+	{
+		"description": "Niedostosowanie prędkości do warunków ruchu",
+		"accidentsAmmount": 6256,
+		"killed": 778,
+		"injured": 8249,
+		"colisionAmmount": 58595
+	},
+	{
+		"description": "Nieprawidłowe cofanie",
+		"accidentsAmmount": 485,
+		"killed": 20,
+		"injured": 489,
+		"colisionAmmount": 42932
+	},
+	{
+		"description": "Nieprawidłowe omijanie",
+		"accidentsAmmount": 371,
+		"killed": 29,
+		"injured": 390,
+		"colisionAmmount": 24440
+	},
+	{
+		"description": "Nieprawidłowe przejeżdżanie przejazdu dla rowerzystów",
+		"accidentsAmmount": 333,
+		"killed": 5,
+		"injured": 330,
+		"colisionAmmount": 551
+	},
+	{
+		"description": "Nieprawidłowe skręcanie",
+		"accidentsAmmount": 782,
+		"killed": 39,
+		"injured": 894,
+		"colisionAmmount": 15387
+	},
+	{
+		"description": "Nieprawidłowe wymijanie",
+		"accidentsAmmount": 587,
+		"killed": 64,
+		"injured": 747,
+		"colisionAmmount": 10070
+	},
+	{
+		"description": "Nieprawidłowe wyprzedzanie",
+		"accidentsAmmount": 1310,
+		"killed": 202,
+		"injured": 1581,
+		"colisionAmmount": 9555
+	},
+	{
+		"description": "Nieprawidłowe zatrzymywanie, postój",
+		"accidentsAmmount": 9,
+		"killed": 0,
+		"injured": 11,
+		"colisionAmmount": 1087
+	},
+	{
+		"description": "Nieprawidłowe Zawracanie",
+		"accidentsAmmount": 132,
+		"killed": 14,
+		"injured": 162,
+		"colisionAmmount": 1517
+	},
+	{
+		"description": "Nieprawidłowe zmienianie pasa ruchu",
+		"accidentsAmmount": 681,
+		"killed": 48,
+		"injured": 847,
+		"colisionAmmount": 29991
+	},
+	{
+		"description": "Nieprzestrzeganie znaków i innych sygnałów",
+		"accidentsAmmount": 108,
+		"killed": 13,
+		"injured": 140,
+		"colisionAmmount": 1893
+	},
+	{
+		"description": "Niestosowanie się do sygnalizacji świetlnej",
+		"accidentsAmmount": 450,
+		"killed": 16,
+		"injured": 614,
+		"colisionAmmount": 4049
+	},
+	{
+		"description": "Nieudzielenie pierwszeństwa przejazdu",
+		"accidentsAmmount": 0,
+		"killed": 0,
+		"injured": 0,
+		"colisionAmmount": 2
+	},
+	{
+		"description": "Nieustąpienie pierwszeństwa pieszemu na przejściu dla pieszych",
+		"accidentsAmmount": 3072,
+		"killed": 216,
+		"injured": 3012,
+		"colisionAmmount": 2537
+	},
+	{
+		"description": "Nieustąpienie pierwszeństwa pieszemu przy skręcaniu w drogę poprzeczną",
+		"accidentsAmmount": 228,
+		"killed": 2,
+		"injured": 232,
+		"colisionAmmount": 262
+	},
+	{
+		"description": "Nieustąpienie pierwszeństwa pieszemu w innych okolicznościach",
+		"accidentsAmmount": 459,
+		"killed": 25,
+		"injured": 449,
+		"colisionAmmount": 653
+	},
+	{
+		"description": "Nieustąpienie pierwszeństwa przejazdu",
+		"accidentsAmmount": 7488,
+		"killed": 322,
+		"injured": 9158,
+		"colisionAmmount": 74016
+	},
+	{
+		"description": "Niezachowanie bezp. odleg. między pojazdami",
+		"accidentsAmmount": 2292,
+		"killed": 57,
+		"injured": 2976,
+		"colisionAmmount": 71912
+	},
+	{
+		"description": "Omijanie pojazdu przed przejściem dla pieszych",
+		"accidentsAmmount": 59,
+		"killed": 6,
+		"injured": 57,
+		"colisionAmmount": 78
+	},
+	{
+		"description": "Wyprzedzanie pojazdu przed przejściem dla pieszych",
+		"accidentsAmmount": 13,
+		"killed": 0,
+		"injured": 13,
+		"colisionAmmount": 46
+	},
+	{
+		"description": "Zmęczenie, zaśnięcie",
+		"accidentsAmmount": 533,
+		"killed": 76,
+		"injured": 762,
+		"colisionAmmount": 2622
+	}
+]
