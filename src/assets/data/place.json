@@ -117,12 +117,5 @@
 		"killed": 8,
 		"injured": 280,
 		"colisionAmmount": 3414
-	},
-	{
-		"description": "Podsumowanie",
-		"accidentsAmmount": 31674,
-		"killed": 2862,
-		"injured": 37359,
-		"colisionAmmount": 436414
 	}
 ]

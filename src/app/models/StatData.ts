@@ -1,4 +1,4 @@
-export class Vehicle {
+export class StatData {
 	description: string;
 	accidentsAmmount: number;
 	killed: number;

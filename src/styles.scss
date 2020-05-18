@@ -3,3 +3,9 @@
 
 // Boxicons
 @import "../node_modules/boxicons/css/boxicons.min.css";
+
+// Global
+th {
+	cursor: pointer;
+	user-select: none;
+}

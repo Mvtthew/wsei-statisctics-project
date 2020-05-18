@@ -1,0 +1,35 @@
+<table class="table table-sm table-striped sortable">
+	<thead class="thead-dark">
+		<tr>
+			<th scope="col">Opis</th>
+			<th
+				scope="col"
+				data-defaultsort="desc"
+			>Ilość kolizjii</th>
+			<th scope="col">Ilość wypadków</th>
+			<th scope="col">Liczba zabitych</th>
+			<th scope="col">Liczba rannych</th>
+		</tr>
+	</thead>
+	<tbody *ngIf="data">
+
+		<tr *ngFor="let row of data">
+			<td>
+				{{ row.description }}
+			</td>
+			<td>
+				{{ row.colisionAmmount }}
+			</td>
+			<td>
+				{{ row.accidentsAmmount }}
+			</td>
+			<td>
+				{{ row.killed }}
+			</td>
+			<td>
+				{{ row.injured }}
+			</td>
+		</tr>
+
+	</tbody>
+</table>

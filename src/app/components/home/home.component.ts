@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from 'src/app/services/data.service';
-import { Behavior } from 'src/app/models/Behavior';
-import { Place } from 'src/app/models/Place';
-import { Vehicle } from 'src/app/models/Vehicle';
+import { StatData } from 'src/app/models/StatData';
 
 @Component({
 	selector: 'app-home',
@@ -11,9 +9,9 @@ import { Vehicle } from 'src/app/models/Vehicle';
 })
 export class HomeComponent implements OnInit {
 
-	behaviorData: Behavior[];
-	placeData: Place[];
-	vehicleData: Vehicle[];
+	behaviorData: StatData[];
+	placeData: StatData[];
+	vehicleData: StatData[];
 
 	constructor(
 		private dataService: DataService

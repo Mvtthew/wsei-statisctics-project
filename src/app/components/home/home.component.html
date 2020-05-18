@@ -1,9 +1,20 @@
 <div class="home mt-4">
 	<div class="container">
-		<div *ngIf="behaviorData">
-			<p *ngFor="let behavior of behaviorData">
-				{{ behavior.description }} - killed {{ behavior.killed }}
-			</p>
-		</div>
+
+		<h3>
+			<i class="bx bx-car"></i> Podział wypadków ze względu na pojazd w roku 2018
+		</h3>
+		<app-data-table [data]="vehicleData"></app-data-table>
+
+		<h3>
+			<i class="bx bx-map"></i> Podział wypadków ze względu na miejsce w roku 2018
+		</h3>
+		<app-data-table [data]="placeData"></app-data-table>
+
+		<h3>
+			<i class="bx bx-user-voice"></i> Podział wypadków ze względu na zachowanie w roku 2018
+		</h3>
+		<app-data-table [data]="behaviorData"></app-data-table>
+
 	</div>
 </div>

@@ -1,8 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { Behavior } from '../models/Behavior';
-import { Vehicle } from '../models/Vehicle';
-import { Place } from '../models/Place';
+import { StatData } from '../models/StatData';
 
 @Injectable({
 	providedIn: 'root'
@@ -11,24 +9,24 @@ export class DataService {
 
 	constructor() { }
 
-	getBehaviorData(): Observable<Behavior[]> {
-		return new Observable<Behavior[]>(subscriber => {
+	getBehaviorData(): Observable<StatData[]> {
+		return new Observable<StatData[]>(subscriber => {
 			fetch('assets/data/behavior.json').then(res => res.json()).then(data => {
 				subscriber.next(data);
 			});
 		});
 	}
 
-	getPlaceData(): Observable<Vehicle[]> {
-		return new Observable<Vehicle[]>(subscriber => {
+	getPlaceData(): Observable<StatData[]> {
+		return new Observable<StatData[]>(subscriber => {
 			fetch('assets/data/place.json').then(res => res.json()).then(data => {
 				subscriber.next(data);
 			});
 		});
 	}
 
-	getVehicleData(): Observable<Place[]> {
-		return new Observable<Place[]>(subscriber => {
+	getVehicleData(): Observable<StatData[]> {
+		return new Observable<StatData[]>(subscriber => {
 			fetch('assets/data/vehicle.json').then(res => res.json()).then(data => {
 				subscriber.next(data);
 			});
