@@ -1,0 +1,30 @@
+[
+	{
+		"description": "Samochód osobowy",
+		"accidentsAmmount": 20622,
+		"killed": 1547,
+		"injured": 25614,
+		"colisionAmmount": 291762
+	},
+	{
+		"description": "Samochód ciężarowy DMC do 3,5 T",
+		"accidentsAmmount": 1350,
+		"killed": 123,
+		"injured": 1637,
+		"colisionAmmount": 23183
+	},
+	{
+		"description": "Samochód ciężarowy DMC powyżej 3,5 T",
+		"accidentsAmmount": 878,
+		"killed": 116,
+		"injured": 1077,
+		"colisionAmmount": 22977
+	},
+	{
+		"description": "Pojazd nieustalony",
+		"accidentsAmmount": 557,
+		"killed": 10,
+		"injured": 596,
+		"colisionAmmount": 19059
+	}
+]

@@ -1,0 +1,30 @@
+﻿[
+	{
+		"description": "Nieustąpienie pierwszeństwa przejazdu",
+		"accidentsAmmount": 7488,
+		"killed": 322,
+		"injured": 9158,
+		"colisionAmmount": 74016
+	},
+	{
+		"description": "Niezachowanie bezp. odleg. między pojazdami",
+		"accidentsAmmount": 2292,
+		"killed": 57,
+		"injured": 2976,
+		"colisionAmmount": 71912
+	},
+	{
+		"description": "Niedostosowanie prędkości do warunków ruchu",
+		"accidentsAmmount": 6256,
+		"killed": 778,
+		"injured": 8249,
+		"colisionAmmount": 58595
+	},
+	{
+		"description": "Nieprawidłowe cofanie",
+		"accidentsAmmount": 485,
+		"killed": 20,
+		"injured": 489,
+		"colisionAmmount": 42932
+	}
+]

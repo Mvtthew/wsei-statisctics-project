@@ -1,0 +1,30 @@
+[
+	{
+		"description": "Jezdnia",
+		"accidentsAmmount": 23218,
+		"killed": 2142,
+		"injured": 28454,
+		"colisionAmmount": 370155
+	},
+	{
+		"description": "Parking, plac, MOP",
+		"accidentsAmmount": 208,
+		"killed": 4,
+		"injured": 209,
+		"colisionAmmount": 32874
+	},
+	{
+		"description": "Pobocze",
+		"accidentsAmmount": 1044,
+		"killed": 197,
+		"injured": 1226,
+		"colisionAmmount": 8415
+	},
+	{
+		"description": "Chodnik, droga dla pieszych",
+		"accidentsAmmount": 653,
+		"killed": 16,
+		"injured": 673,
+		"colisionAmmount": 4383
+	}
+]

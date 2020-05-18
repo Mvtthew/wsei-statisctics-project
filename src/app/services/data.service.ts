@@ -11,7 +11,7 @@ export class DataService {
 
 	getBehaviorData(): Observable<StatData[]> {
 		return new Observable<StatData[]>(subscriber => {
-			fetch('assets/data/behavior.json').then(res => res.json()).then(data => {
+			fetch('assets/data/behaviorAll.json').then(res => res.json()).then(data => {
 				subscriber.next(data);
 			});
 		});
@@ -19,7 +19,7 @@ export class DataService {
 
 	getPlaceData(): Observable<StatData[]> {
 		return new Observable<StatData[]>(subscriber => {
-			fetch('assets/data/place.json').then(res => res.json()).then(data => {
+			fetch('assets/data/placeAll.json').then(res => res.json()).then(data => {
 				subscriber.next(data);
 			});
 		});
@@ -27,7 +27,7 @@ export class DataService {
 
 	getVehicleData(): Observable<StatData[]> {
 		return new Observable<StatData[]>(subscriber => {
-			fetch('assets/data/vehicle.json').then(res => res.json()).then(data => {
+			fetch('assets/data/vehicleAll.json').then(res => res.json()).then(data => {
 				subscriber.next(data);
 			});
 		});
